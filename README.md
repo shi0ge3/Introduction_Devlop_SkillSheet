@@ -74,7 +74,7 @@ AWS<br>
 使用教材：Udemy<br>
   https://www.udemy.com/course/aws-nyumon-beginner-cloud-practitioner-ec2-vpc-rds-s3-elb-lambda-iam/
 
-## 2.パッケージ管理
+## 2.インフラツール
 ### [現在学習中]
 Docker<br>
 使用教材：Udemy<br>
