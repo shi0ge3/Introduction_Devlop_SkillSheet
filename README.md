@@ -74,6 +74,11 @@ AWS<br>
 使用教材：Udemy<br>
   https://www.udemy.com/course/aws-nyumon-beginner-cloud-practitioner-ec2-vpc-rds-s3-elb-lambda-iam/
 
+AWS EKS Kubernetes<br>
+・米シリコンバレーエンジニア監修！AWS EKS KubernetesハンズオンBest Practices (2020)
+使用教材：Udemy<br>
+　https://www.udemy.com/share/103pEQAEMed1xURH0J/
+
 ## 2.インフラツール
 ### [現在学習中]
 Docker<br>
@@ -93,3 +98,9 @@ Git<br>
 ・Git： もう怖くないGit！チーム開発で必要なGitを完全マスター<br>
   https://www.udemy.com/course/unscared_git/
 
+# 管理方法
+### [現在学習中]
+アジャイル開発
+使用教材：Udemy<br>
+・現役シリコンバレーエンジニアが教えるアジャイル開発<br>
+https://www.udemy.com/share/102Ho4AEMed1xURH0J/
