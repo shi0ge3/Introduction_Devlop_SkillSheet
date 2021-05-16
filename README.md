@@ -75,7 +75,7 @@ AWS<br>
   https://www.udemy.com/course/aws-nyumon-beginner-cloud-practitioner-ec2-vpc-rds-s3-elb-lambda-iam/
 
 AWS EKS Kubernetes<br>
-・米シリコンバレーエンジニア監修！AWS EKS KubernetesハンズオンBest Practices (2020)
+・米シリコンバレーエンジニア監修！AWS EKS KubernetesハンズオンBest Practices (2020)<br>
 使用教材：Udemy<br>
 　https://www.udemy.com/share/103pEQAEMed1xURH0J/
 
