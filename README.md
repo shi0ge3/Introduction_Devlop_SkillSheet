@@ -91,6 +91,11 @@ Kubernetes<br>
 ・超Kubernetes完全入門(2020)<br>
   https://www.udemy.com/course/kubernetes-docker-container-devops-kanzen-nyumon/
 
+Istio Service Mesh<br>
+使用教材：Udemy<br>
+・米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS
+　　　https://www.udemy.com/course/istio-service-mesh-kubernetes-aws-eks-2020-handson/
+
 # 開発ツール
 ### [現在学習中]
 Git<br>
