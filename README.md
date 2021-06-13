@@ -94,7 +94,7 @@ Kubernetes<br>
 
 Istio Service Mesh<br>
 使用教材：Udemy<br>
-・米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS
+・米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS<br>
 　　　https://www.udemy.com/course/istio-service-mesh-kubernetes-aws-eks-2020-handson/
 
 # 開発ツール
