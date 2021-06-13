@@ -15,7 +15,7 @@ HTML5/CSS3
 # プログラミング言語
 ### [実務経験]
 C++/PHP/JavaScript
-### [現在学習中]
+### [学習済み内容]
 C++<br>
 使用教材：本<br>
 ・ストラウストラップのプログラミング入門<br>
@@ -37,6 +37,7 @@ Go<br>
 ・Go入門 + 応用でビットコインのシステムトレーディングFintechアプリの開発<br>
   https://www.udemy.com/course/go-fintech/
 
+### [現在学習中]
 Python<br>
 使用教材：Udemy<br>
 ・Python3入門 + 応用<br>
@@ -60,7 +61,7 @@ BootStrap4
 # DB関連
 ### [実務経験]
 MySQL(MariaDB)
-### [現在学習中]
+### [学習済み内容]
 SQL(MySQLを使用して学習)<br>
 使用教材：本<br>
 ・Head First SQL<br>
