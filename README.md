@@ -16,7 +16,7 @@ HTML5/CSS3
 ### [実務経験の概要]
 C++=製品データコピー機能の追加、印刷制御機能の改修。<br>
 PHP=入社試験の１問の改修作業。<br>
-HTML5＆CSS3/JavaScript=WEB制作案件でモック作成。
+HTML5＆CSS3/JavaScript/BootStrap4=WEB制作案件でモック作成。
 ### [学習済み内容]
 C++<br>
 使用教材：本<br>
