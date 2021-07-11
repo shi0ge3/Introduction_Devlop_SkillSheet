@@ -99,6 +99,11 @@ Istio Service Mesh<br>
 ・米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS<br>
   https://www.udemy.com/course/istio-service-mesh-kubernetes-aws-eks-2020-handson/
 
+Terraform<br>
+使用教材：Udemy<br>
+米シリコンバレーDevOps監修！超Terraform完全入門(0.14) + AWS DevOps IaCをマスター！<br>
+https://www.udemy.com/course/hashicorp-terraform-aws-devops-iac/
+
 # 開発ツール
 ### [現在学習中]
 Git<br>
