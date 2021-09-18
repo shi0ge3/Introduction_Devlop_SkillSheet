@@ -11,13 +11,13 @@
 
 # 実務経験
 C++=製品データコピー機能の追加、印刷制御機能の改修。<br>
-PHP=入社試験の１問の改修作業。<br>
+PHP=入社試験システム解答ページ１問の改修作業。<br>
 HTML5＆CSS3/JavaScript/BootStrap4/MySQL(MariaDB)=WEB制作案件でモック作成。
 
 
 # 学習関連
 ## [現在学習中]
-### <プログラミング言語>
+### < プログラミング言語 >
 C++<br>
 使用教材：本<br>
 ストラウストラップのプログラミング入門<br>
@@ -28,11 +28,12 @@ JavaScript<br>
 初級者から中級者になるためのJavaScriptメカニズム<br>
 https://www.udemy.com/course/javascript-essence/
 
-### <DB>
-達人に学ぶSQL徹底指南書第２版
-https://www.amazon.co.jp/gp/product/B07GB4CNKP/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4
 
-### <クラウド>
+### < DB >
+達人に学ぶSQL徹底指南書第２版<br>
+https://www.amazon.co.jp/gp/product/B07GB4CNKP/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4<br>
+
+### < クラウド >
 AWS<br>
 AWS超入門(優しい図解、クラウドプラクティショナ以上SAA未満)とTerraform<br>
 使用教材：Udemy<br>
@@ -43,7 +44,7 @@ AWS EKS Kubernetes<br>
 使用教材：Udemy<br>
 https://www.udemy.com/share/103pEQAEMed1xURH0J/
 
-### <インフラツール>
+### < インフラツール >
 Docker<br>
 使用教材：Udemy<br>
 超Docker完全入門(2020)<br>
@@ -66,7 +67,7 @@ https://www.udemy.com/course/hashicorp-terraform-aws-devops-iac/<br>
 
 
 ## [学習済み内容]
-### <プログラミング言語>
+### < プログラミング言語 >
 C++<br>
 使用教材：本<br>
 プログラマの考え方がおもしろいほど身につく本 - 問題解決能力を鍛えよう！<br>
@@ -98,19 +99,19 @@ JavaScript<br>
 はじめてのJavaScriptプログラミング入門講座<br>
 https://www.udemy.com/course/learn-basics-of-javascript/<br>
   
-### <DB>
+### < DB >
 SQL(MySQLを使用して学習)<br>
 使用教材：本<br>
 Head First SQL<br>
 https://www.oreilly.co.jp/books/9784873113692/<br>
 
-### <開発関連ツール>
+### < 開発関連ツール >
 Git<br>
 使用教材：Udemy<br>
 Git： もう怖くないGit！チーム開発で必要なGitを完全マスター<br>
 https://www.udemy.com/course/unscared_git/<br>
 
-### <ビジネスフレームワーク>
+### < ビジネスフレームワーク >
 使用教材：Udemy<br>
 現役シリコンバレーエンジニアが教えるアジャイル開発<br>
 https://www.udemy.com/share/102Ho4AEMed1xURH0J/<br>
