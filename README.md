@@ -12,16 +12,41 @@
 # マークアップ言語
 ### [実務経験]
 HTML5/CSS3
+
 # プログラミング言語
 ### [実務経験の概要]
 C++=製品データコピー機能の追加、印刷制御機能の改修。<br>
 PHP=入社試験の１問の改修作業。<br>
 HTML5＆CSS3/JavaScript/BootStrap4=WEB制作案件でモック作成。
+
+# フレームワーク
+### [実務経験]
+BootStrap4
+
+# DB関連
+### [実務経験]
+MySQL(MariaDB)
 ### [学習済み内容]
+SQL(MySQLを使用して学習)<br>
+使用教材：本<br>
+・Head First SQL<br>
+  https://www.oreilly.co.jp/books/9784873113692/
+
+
+### [現在学習中]
 C++<br>
 使用教材：本<br>
 ・ストラウストラップのプログラミング入門<br>
   https://www.shoeisha.co.jp/book/detail/9784798119595<br>
+
+JavaScript<br>
+使用教材：Udemy<br>
+・初級者から中級者になるためのJavaScriptメカニズム<br>
+  https://www.udemy.com/course/javascript-essence/
+
+### [学習済み内容]
+C++<br>
+使用教材：本<br>
 ・プログラマの考え方がおもしろいほど身につく本 - 問題解決能力を鍛えよう！<br>
   https://www.kinokuniya.co.jp/f/dsg-08-9989243085
 
@@ -39,35 +64,17 @@ Go<br>
 ・Go入門 + 応用でビットコインのシステムトレーディングFintechアプリの開発<br>
   https://www.udemy.com/course/go-fintech/
 
-### [現在学習中]
 Python<br>
 使用教材：Udemy<br>
 ・Python3入門 + 応用<br>
   https://www.udemy.com/course/python-beginner/<br>
 ・アルゴリズム・データ構造・コーディングテスト入門<br>
   https://www.udemy.com/course/python-algo/<br>
-・GAFAデータ構造コーディング試験入門 in Java & Python<br>
-  https://www.udemy.com/course/data-kouzou-coding-interview-test-beginner/
 
 JavaScript<br>
 使用教材：Udemy<br>
 ・はじめてのJavaScriptプログラミング入門講座<br>
   https://www.udemy.com/course/learn-basics-of-javascript/<br>
-・初級者から中級者になるためのJavaScriptメカニズム<br>
-  https://www.udemy.com/course/javascript-essence/
-
-# フレームワーク
-### [実務経験]
-BootStrap4
-
-# DB関連
-### [実務経験]
-MySQL(MariaDB)
-### [学習済み内容]
-SQL(MySQLを使用して学習)<br>
-使用教材：本<br>
-・Head First SQL<br>
-  https://www.oreilly.co.jp/books/9784873113692/
 
 # インフラ関連
 ## 1.クラウド<br>
@@ -112,7 +119,7 @@ Git<br>
   https://www.udemy.com/course/unscared_git/
 
 # 管理方法
-### [現在学習中]
+### []
 アジャイル開発
 使用教材：Udemy<br>
 ・現役シリコンバレーエンジニアが教えるアジャイル開発<br>
