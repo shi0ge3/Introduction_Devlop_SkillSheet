@@ -28,11 +28,6 @@ JavaScript<br>
 初級者から中級者になるためのJavaScriptメカニズム<br>
 https://www.udemy.com/course/javascript-essence/
 
-
-### < DB >
-達人に学ぶSQL徹底指南書第２版<br>
-https://www.amazon.co.jp/gp/product/B07GB4CNKP/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i4<br>
-
 ### < クラウド >
 AWS<br>
 AWS超入門(優しい図解、クラウドプラクティショナ以上SAA未満)とTerraform<br>
