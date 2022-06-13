@@ -17,49 +17,15 @@ HTML5＆CSS3/JavaScript/BootStrap4/MySQL(MariaDB)=WEB制作案件でモック作
 
 # 学習関連
 ## [現在学習中]
-### < プログラミング言語 >
-C++<br>
-使用教材：本<br>
-ストラウストラップのプログラミング入門<br>
-https://www.shoeisha.co.jp/book/detail/9784798119595<br>
+目的：T型スキルを持った、QAやTEを目指しております。そのためには、教養を深め多面的に考えて行動できる様になる必要だからです。<br>
 
-JavaScript<br>
-使用教材：Udemy<br>
-初級者から中級者になるためのJavaScriptメカニズム<br>
-https://www.udemy.com/course/javascript-essence/
+独学エンジニア<br>
+https://dokugaku-engineer.com/<br>
+内容：PHP/MySql/Docker/Linux(ubuntu)/Git/AWS<br>
 
-### < クラウド >
-AWS<br>
-AWS超入門(優しい図解、クラウドプラクティショナ以上SAA未満)とTerraform<br>
-使用教材：Udemy<br>
-https://www.udemy.com/course/aws-nyumon-beginner-cloud-practitioner-ec2-vpc-rds-s3-elb-lambda-iam/<br>
-
-AWS EKS Kubernetes<br>
-米シリコンバレーエンジニア監修！AWS EKS KubernetesハンズオンBest Practices (2020)<br>
-使用教材：Udemy<br>
-https://www.udemy.com/share/103pEQAEMed1xURH0J/
-
-### < インフラツール >
-Docker<br>
-使用教材：Udemy<br>
-超Docker完全入門(2020)<br>
-https://www.udemy.com/course/linux-docker-compose-dockerfile-kanzennyumon/<br>
-
-Kubernetes<br>
-使用教材：Udemy<br>
-超Kubernetes完全入門(2020)<br>
-https://www.udemy.com/course/kubernetes-docker-container-devops-kanzen-nyumon/<br>
-
-Istio Service Mesh<br>
-使用教材：Udemy<br>
-米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS<br>
-https://www.udemy.com/course/istio-service-mesh-kubernetes-aws-eks-2020-handson/<br>
-
-Terraform<br>
-使用教材：Udemy<br>
-米シリコンバレーDevOps監修！超Terraform完全入門(0.14) + AWS DevOps IaCをマスター！<br>
-https://www.udemy.com/course/hashicorp-terraform-aws-devops-iac/<br>
-
+コンピュータサイエンス<br>
+https://recursionist.io/<br>
+内容：コンピュータサイエンス/Python/HTMLなど<br>
 
 ## [学習済み内容]
 ### < プログラミング言語 >
@@ -67,6 +33,9 @@ C++<br>
 使用教材：本<br>
 プログラマの考え方がおもしろいほど身につく本 - 問題解決能力を鍛えよう！<br>
 https://www.kinokuniya.co.jp/f/dsg-08-9989243085<br>
+使用教材：本<br>
+ストラウストラップのプログラミング入門<br>
+https://www.shoeisha.co.jp/book/detail/9784798119595<br>
 
 Java<br>
 使用教材：本/Udemy<br>
@@ -93,12 +62,48 @@ JavaScript<br>
 使用教材：Udemy<br>
 はじめてのJavaScriptプログラミング入門講座<br>
 https://www.udemy.com/course/learn-basics-of-javascript/<br>
+使用教材：Udemy<br>
+初級者から中級者になるためのJavaScriptメカニズム<br>
+https://www.udemy.com/course/javascript-essence/
   
 ### < DB >
 SQL(MySQLを使用して学習)<br>
 使用教材：本<br>
 Head First SQL<br>
 https://www.oreilly.co.jp/books/9784873113692/<br>
+
+### < クラウド >
+AWS<br>
+AWS超入門(優しい図解、クラウドプラクティショナ以上SAA未満)とTerraform<br>
+使用教材：Udemy<br>
+https://www.udemy.com/course/aws-nyumon-beginner-cloud-practitioner-ec2-vpc-rds-s3-elb-lambda-iam/<br>
+
+AWS EKS Kubernetes<br>
+米シリコンバレーエンジニア監修！AWS EKS KubernetesハンズオンBest Practices (2020)<br>
+使用教材：Udemy<br>
+https://www.udemy.com/share/103pEQAEMed1xURH0J/
+
+
+### < インフラツール >
+Docker<br>
+使用教材：Udemy<br>
+超Docker完全入門(2020)<br>
+https://www.udemy.com/course/linux-docker-compose-dockerfile-kanzennyumon/<br>
+
+Kubernetes<br>
+使用教材：Udemy<br>
+超Kubernetes完全入門(2020)<br>
+https://www.udemy.com/course/kubernetes-docker-container-devops-kanzen-nyumon/<br>
+
+Istio Service Mesh<br>
+使用教材：Udemy<br>
+米シリコンバレーDevOps監修！Istio Service Mesh ハンズオン+Kubernetes AWS EKS<br>
+https://www.udemy.com/course/istio-service-mesh-kubernetes-aws-eks-2020-handson/<br>
+
+Terraform<br>
+使用教材：Udemy<br>
+米シリコンバレーDevOps監修！超Terraform完全入門(0.14) + AWS DevOps IaCをマスター！<br>
+https://www.udemy.com/course/hashicorp-terraform-aws-devops-iac/<br>
 
 ### < 開発関連ツール >
 Git<br>
