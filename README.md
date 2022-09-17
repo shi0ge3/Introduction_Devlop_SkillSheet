@@ -12,7 +12,7 @@
 # 実務経験
 C++=製品データコピー機能の追加、印刷制御機能の改修。(2ヶ月)<br>
 PHP=入社試験システム解答ページ１問の改修作業。(３日)<br>
-HTML5＆CSS3/JavaScript/BootStrap4/MySQL(MariaDB)=WEB制作案件でモック作成。(2ヶ月)
+HTML5＆CSS3/JavaScript/BootStrap4=WEB制作案件でモック作成。(2ヶ月)
 
 
 # 学習関連
