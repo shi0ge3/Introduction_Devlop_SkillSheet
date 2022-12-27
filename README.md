@@ -22,7 +22,7 @@ HTML5＆CSS3/JavaScript/BootStrap4=WEB制作案件でモック作成。(2ヶ月)
 
 コンピュータサイエンス<br>
 [Recursion](https://recursionist.io/)<br>
-内容：コンピュータサイエンス/プログラミング言語(※)/離散数学/OS/フレームワークなど<br>
+内容：[コンピュータサイエンス/プログラミング言語(※)/離散数学/OS/フレームワークなど](https://recursionist.io/course)<br>
 ※プログラミング言語＝各分野の学習を通して学んでおります。主にPython/JavaScript/Javaを使用。<br>
 言語の使用方法については、ブログや公式ドキュメント等を利用して不明点は調べております。<br>
 
