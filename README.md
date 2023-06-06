@@ -48,7 +48,7 @@
 # 学習関連
 理解している事、理解する事を増やす為に復習を継続しております。
 
-## [現在学習中]
+## 現在学習中
 目的：T型スキルを持った、QAやTEを目指しております。そのためにソフトウェア開発の基礎を教養として学習に取り組んでおります。
 
 - コンピュータサイエンス<br>
@@ -60,10 +60,6 @@
 - クラウド<br>
 使用教材：オンライン学習サイト<br>
 [Microsoft Azure の基礎](https://learn.microsoft.com/ja-jp/certifications/exams/az-900/) ※クラウドの基礎の復習で利用してます。<br>
-
-- 開発ベストプラクティス<br>
-使用教材：Udemy(動画)<br>
-[プログラミング中級者になりたい人のためのクリーンコード入門](https://www.udemy.com/course/clean-code-tutorial/)
 
 ## 学習済み内容
 ### プログラミング言語
@@ -106,3 +102,4 @@
 - 使用教材：Udemy(動画)<br>
 [現役シリコンバレーエンジニアが教えるアジャイル開発](https://www.udemy.com/share/102Ho4AEMed1xURH0J/)<br>
 [現役シリコンバレーエンジニアが教える次世代インターネットWEB3.0 NFT DeFi 入門講座](https://www.udemy.com/course/web30-nft-defi/)<br>
+[プログラミング中級者になりたい人のためのクリーンコード入門](https://www.udemy.com/course/clean-code-tutorial/)<br>
